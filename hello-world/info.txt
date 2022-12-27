@@ -1,0 +1,16 @@
+yarn run dev -> _app.js -> Component prop -> index.js(Home Component) 
+-> To more Component
+*********************************************
+
+Routing in a React App - 
+1. Install a third party package
+2. routes.js files to configure the routes
+3. For each route, create a Component file, export the component, import it in routes.js and configure the new route with a path property.
+*********************************************
+
+Routing in a Next.js app - 
+1.File-system based routing mechanism
+2.When a file is added to the pages folder in a project, it automatically becomes available as a route.
+3.By mixing and matching file names with a nested folder structure, it is possible  to pretty much define the most common routing patterns
+*********************************************
+
