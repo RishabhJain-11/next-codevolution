@@ -17,3 +17,14 @@ function Doc() {
 }
 
 export default Doc; 
+
+/***
+ * Archery
+ * BMX
+Cyclo-cross
+Cycle polo
+Cycle speedway
+Downhill mountain biking
+Dirt jumping
+Freestyle BMX
+ */
