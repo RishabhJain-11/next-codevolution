@@ -33,12 +33,3 @@ export async function getStaticProps() {
         }
     }
 }
-
-/**
- * narine
- * russell
- * bairstow
- * ingram
- * 
- * 
- */
