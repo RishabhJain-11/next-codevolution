@@ -6,7 +6,7 @@ function Home() {
     <Link href='/users'>
       Users
     </Link>
-
+    <br />
     <Link href='/posts'>
       Posts
     </Link>
